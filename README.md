@@ -3,6 +3,8 @@
 
 A Linux server developed in a virtual machine with some safety requirements
 
+As it is done in a virtual machine, there is for evaluation purposes only the signature of the machine's virtual disk present.
+
 ## Requirements
 
 + Latest stable version of [Debian](https://www.debian.org) (*Debian 10 Buster* at the time of writing)
